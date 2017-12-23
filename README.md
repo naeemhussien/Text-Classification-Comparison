@@ -24,6 +24,7 @@ Classification comparison between machine learning models and techniques on emot
 #### All the models applied early-stopping to prevent overfit.
 #### Assuming BOW and TFIDF generated all are the same.
 #### All the models trained 80% of the dataset, validated 20% of the dataset.
+#### Some comparisons are not consistent, example in Neural Network based, I do not calculate recall, and f1. Need to update later.
 
 ## BOW / Unigram
 1. [Naive Bayes](https://github.com/huseinzol05/Emotion-Classification-Comparison/blob/master/bayes-classifier.ipynb)
