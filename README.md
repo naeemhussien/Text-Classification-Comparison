@@ -1,5 +1,5 @@
 # Emotion-Classification-Comparison
-Classification comparison between machine learning models and techniques on emotion datasets. You can download the dataset [here](https://github.com/huseinzol05/NLP-Dataset)
+Classification comparison between machine learning models and techniques on emotion data-set. You can download the dataset [here](https://github.com/huseinzol05/NLP-Dataset)
 
 ### Vectorization techniques I used:
 1. [Bag Of Word / Unigram](https://en.wikipedia.org/wiki/Bag-of-words_model)
