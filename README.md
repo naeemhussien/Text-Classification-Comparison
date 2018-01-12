@@ -13,12 +13,13 @@ Classification comparison between machine learning models and techniques on emot
 1. Extreme Gradient Boosting
 2. Light Gradient Boosting
 3. Feed-forward Neural Network
-4. Recurrent Neural Network
+4. Recurrent Neural Network + LSTM
 5. Convolutional Neural Network
 6. Convolutional + Recurrent
 7. Ensemble methods
 8. Naive Bayes
 9. SVM
+10. Bidirectional Recurrent Neural Network + LSTM
 
 #### All the notebooks applied pre-processing text cleaning using Regex. re.sub('[^A-Za-z0-9 ]+', '', string).
 #### All the models applied early-stopping to prevent overfit.
