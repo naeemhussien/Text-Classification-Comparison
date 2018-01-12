@@ -227,26 +227,28 @@ break epoch: 223
 ```
 2. [Recurrent Neural Network](https://github.com/huseinzol05/Emotion-Classification-Comparison/blob/master/rnn-vector.ipynb)
 ```text
-epoch: 17 , pass acc: 0.898487401967 , current acc: 0.901956790922
-epoch: 18 , training loss: 0.455475770889 , training acc: 0.906682676552 , valid loss: 0.456880040529 , valid acc: 0.901956790922
-epoch: 18 , pass acc: 0.901956790922 , current acc: 0.902028830899
-epoch: 19 , training loss: 0.444016918558 , training acc: 0.909136187676 , valid loss: 0.449768354412 , valid acc: 0.902028830899
-epoch: 20 , training loss: 0.438225969243 , training acc: 0.909955015333 , valid loss: 0.45305646278 , valid acc: 0.901572648861
+epoch: 43 , training loss: 0.293494431497 , training acc: 0.91647871451 , valid loss: 0.301500787934 , valid acc: 0.911824742285
+'unwarrentedly'
+time taken: 201.13964009284973
+epoch: 44 , training loss: 0.292884760499 , training acc: 0.916391732865 , valid loss: 0.316479788662 , valid acc: 0.908499411174
+'unwarrentedly'
+time taken: 201.1136453151703
+epoch: 45 , training loss: 0.292009347957 , training acc: 0.916490714602 , valid loss: 0.301596783737 , valid acc: 0.910792332308
 ```
 3. [Convolutional Neural Network](https://github.com/huseinzol05/Emotion-Classification-Comparison/blob/master/cnn-vector.ipynb)
 ```text
-epoch: 6 , pass acc: 0.82410562754 , current acc: 0.843349330709
-epoch: 7 , training loss: 0.761011689186 , training acc: 0.835515886116 , valid loss: 0.733151363225 , valid acc: 0.843349330709
-epoch: 7 , pass acc: 0.843349330709 , current acc: 0.85314525197
-epoch: 8 , training loss: 0.705745415374 , training acc: 0.848767240657 , valid loss: 0.687090511797 , valid acc: 0.85314525197
-epoch: 8 , pass acc: 0.85314525197 , current acc: 0.859339732225
-epoch: 9 , training loss: 0.66765936014 , training acc: 0.858122373099 , valid loss: 0.656822612485 , valid acc: 0.859339732225
+epoch: 45 , training loss: 0.406819455151 , training acc: 0.900872836373 , valid loss: 0.413255342881 , valid acc: 0.896866754467
+epoch: 46 , training loss: 0.406384702676 , training acc: 0.900506910515 , valid loss: 0.412755171971 , valid acc: 0.896986806521
+epoch: 47 , training loss: 0.406851520408 , training acc: 0.901097791847 , valid loss: 0.414064356509 , valid acc: 0.895942385028
 ```
 4. [CNN + RNN](https://github.com/huseinzol05/Emotion-Classification-Comparison/blob/master/cnn-rnn-vector.ipynb)
 ```text
-epoch: 5 , training loss: 0.974301998996 , training acc: 0.795821817785 , valid loss: 1.08851915784 , valid acc: 0.739543796659
-epoch: 6 , training loss: 0.904681019874 , training acc: 0.803524277867 , valid loss: 1.08474090091 , valid acc: 0.735114026041
-epoch: 7 , training loss: 0.851716081611 , training acc: 0.810161950475 , valid loss: 1.11730959936 , valid acc: 0.726518585902
+epoch: 11 , training loss: 0.89633845398 , training acc: 0.742852410318 , valid loss: 1.31553278515 , valid acc: 0.62818725459
+'unwarrentedly'
+epoch: 12 , training loss: 0.870958457021 , training acc: 0.751430695276 , valid loss: 1.35667084581 , valid acc: 0.625294097582
+'unwarrentedly'
+epoch: 13 , training loss: 0.867803699844 , training acc: 0.751742633378 , valid loss: 1.37888059403 , valid acc: 0.626062403385
+break epoch: 13
 ```
 
 ## Hashing Vectorization
