@@ -225,7 +225,7 @@ epoch: 222 , training loss: 0.535587115036 , training acc: 0.886493929708 , vali
 epoch: 223 , training loss: 0.535212274276 , training acc: 0.886564308321 , valid loss: 0.796873355467 , valid acc: 0.808291729718
 break epoch: 223
 ```
-2. [Recurrent Neural Network](https://github.com/huseinzol05/Emotion-Classification-Comparison/blob/master/rnn-vector.ipynb)
+2. [Recurrent Neural Network LSTM](https://github.com/huseinzol05/Emotion-Classification-Comparison/blob/master/rnn-vector.ipynb)
 ```text
 epoch: 43 , training loss: 0.293494431497 , training acc: 0.91647871451 , valid loss: 0.301500787934 , valid acc: 0.911824742285
 'unwarrentedly'
@@ -249,6 +249,16 @@ epoch: 12 , training loss: 0.870958457021 , training acc: 0.751430695276 , valid
 'unwarrentedly'
 epoch: 13 , training loss: 0.867803699844 , training acc: 0.751742633378 , valid loss: 1.37888059403 , valid acc: 0.626062403385
 break epoch: 13
+```
+5. [Bidirectional Recurrent Neural Network LSTM](https://github.com/huseinzol05/Emotion-Classification-Comparison/blob/master/bidirectional-rnn-vector.ipynb)
+```text
+epoch: 31 , training loss: 0.306716536762 , training acc: 0.915449927471 , valid loss: 0.305131908171 , valid acc: 0.911728706609
+'unwarrentedly'
+time taken: 633.0987968444824
+epoch: 32 , training loss: 0.30510045163 , training acc: 0.915593898146 , valid loss: 0.306183017638 , valid acc: 0.911968804136
+'unwarrentedly'
+time taken: 633.1091139316559
+epoch: 33 , training loss: 0.304126529089 , training acc: 0.915686878639 , valid loss: 0.305108016744 , valid acc: 0.911548635682
 ```
 
 ## Hashing Vectorization
