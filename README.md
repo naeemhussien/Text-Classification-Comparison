@@ -263,6 +263,23 @@ epoch: 32 , training loss: 0.30510045163 , training acc: 0.915593898146 , valid 
 time taken: 633.1091139316559
 epoch: 33 , training loss: 0.304126529089 , training acc: 0.915686878639 , valid loss: 0.305108016744 , valid acc: 0.911548635682
 ```
+6. [LSTM + RNN + Huber](https://github.com/huseinzol05/Emotion-Classification-Comparison/blob/master/rnn-vector-huber.ipynb)
+```text
+epoch: 13 , training loss: 0.00908494556632 , training acc: 0.921331746462 , valid loss: 0.00935218644235 , valid acc: 0.916014416235
+'unwarrentedly'
+time taken: 192.9246437549591
+epoch: 14 , training loss: 0.00894308844975 , training acc: 0.921859639933 , valid loss: 0.00925432719706 , valid acc: 0.915174080902
+'unwarrentedly'
+epoch: 14 , pass acc: 0.916014416235 , current acc: 0.91602642217
+```
+7.[LSTM + RNN + Hinge](https://github.com/huseinzol05/Emotion-Classification-Comparison/blob/master/rnn-vector-hinge.ipynb)
+```text
+epoch: 22 , training loss: 0.0533290837786 , training acc: 0.919721068543 , valid loss: 0.0562712795169 , valid acc: 0.913313335445
+epoch: 22 , pass acc: 0.913505411806 , current acc: 0.913613458785
+time taken: 192.64984250068665
+epoch: 23 , training loss: 0.0531139997573 , training acc: 0.920024007827 , valid loss: 0.0563346863817 , valid acc: 0.913613458785
+time taken: 192.55219149589539
+```
 
 ## Hashing Vectorization
 1. [Naive Bayes](https://github.com/huseinzol05/Emotion-Classification-Comparison/blob/master/bayes-classifier.ipynb)
