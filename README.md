@@ -20,6 +20,8 @@ Classification comparison between machine learning models and techniques on emot
 8. Naive Bayes
 9. SVM
 10. Bidirectional Recurrent Neural Network + LSTM
+11. Recurrent Neural Network + LSTM + Huber
+12. Recurrent Neural Network + LSTM + Hinge (SVM)
 
 #### All the notebooks applied pre-processing text cleaning using Regex. re.sub('[^A-Za-z0-9 ]+', '', string).
 #### All the models applied early-stopping to prevent overfit.
