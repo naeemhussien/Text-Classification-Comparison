@@ -14,20 +14,20 @@ You can download the dataset [here](https://github.com/huseinzol05/NLP-Dataset),
 ### Ensemble
 1. featuring (stop word counts, special character counts, Character SVD, Multinomial output) ensembling on LGB
 
-### LGB
+### Light Gradient Boosting
 1. TFIDF
 2. TFIDF-SVD 50 Components
 3. Dictionary timestamp average sequences
 4. NCE-Vector
 
-### XGB
+### eXtreme Gradient Boosting
 1. BOW
 2. TFIDF
 3. TFIDF-SVD 50 Components
 4. Dictionary timestamp 50 sequences
 5. Dictionary timestamp average sequences
 
-### SVM
+### Support Vector Machine
 1. BOW
 2. TFIDF
 3. Hashing
