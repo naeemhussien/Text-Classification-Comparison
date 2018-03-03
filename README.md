@@ -3,13 +3,14 @@ Classification comparison between machine learning models and techniques on emot
 
 ## Preparation
 
-1. Unzip preparation/data.zip. You will get data/
-2. run prepare.ipynb to get dataset-emotion.p
-3. run word-vectior.ipynb to get vector-emotion.p
-4. run prepare-vocab.ipynb to get dataset-dictionary.p and dataset-dictionary-reverse.p
+1. Change directory to preparation/
+2. unzip data.zip. You will get data/
+3. run prepare.ipynb to get dataset-emotion.p
+4. run word-vectior.ipynb to get vector-emotion.p
+5. run prepare-vocab.ipynb to get dataset-dictionary.p and dataset-dictionary-reverse.p
 
 #### On how to prepare your own dataset
-1. main folder name 'data'
+1. dataset folder must name 'data'
 2. split the documents based on classes, and create sub-folders based on that classes
 ```text
 data
