@@ -19,7 +19,7 @@ data
 |-- negative
 	|-- data.txt
 ```
-3. redo step 2-4 above.
+3. redo step 3-5 above.
 
 
 ## Vectorization Techniques
