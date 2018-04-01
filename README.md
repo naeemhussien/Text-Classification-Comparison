@@ -96,16 +96,16 @@ Some comparisons are not consistent, example in Neural Network based, I do not c
 #### Oracle
 
 ```text
-Oracle classifier accuracy=0.9312446022454659
-Oracle classifier accuracy=0.9294453507340946
-Oracle classifier accuracy=0.9295859123842426
-Oracle classifier accuracy=0.9295859123842426
-Oracle classifier accuracy=0.9305438929008422
-Oracle classifier accuracy=0.9279287924953816
-Oracle classifier accuracy=0.9291523715841751
-Oracle classifier accuracy=0.9278516243581746
-Oracle classifier accuracy=0.9277316569892989
-Oracle classifier accuracy=0.9281395460434761
+Oracle classifier accuracy=0.9312446022454659 #cv1
+Oracle classifier accuracy=0.9294453507340946 #cv2
+Oracle classifier accuracy=0.9295859123842426 #cv3
+Oracle classifier accuracy=0.9295859123842426 #cv4
+Oracle classifier accuracy=0.9305438929008422 #cv5
+Oracle classifier accuracy=0.9279287924953816 #cv6
+Oracle classifier accuracy=0.9291523715841751 #cv7
+Oracle classifier accuracy=0.9278516243581746 #cv8
+Oracle classifier accuracy=0.9277316569892989 #cv9
+Oracle classifier accuracy=0.9281395460434761 #cv10
 ```
 
 #### BOW / Unigram
