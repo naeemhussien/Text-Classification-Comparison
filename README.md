@@ -93,6 +93,21 @@ Some comparisons are not consistent, example in Neural Network based, I do not c
 
 ## Results
 
+#### Oracle
+
+```text
+Oracle classifier accuracy=0.9312446022454659
+Oracle classifier accuracy=0.9294453507340946
+Oracle classifier accuracy=0.9295859123842426
+Oracle classifier accuracy=0.9295859123842426
+Oracle classifier accuracy=0.9305438929008422
+Oracle classifier accuracy=0.9279287924953816
+Oracle classifier accuracy=0.9291523715841751
+Oracle classifier accuracy=0.9278516243581746
+Oracle classifier accuracy=0.9277316569892989
+Oracle classifier accuracy=0.9281395460434761
+```
+
 #### BOW / Unigram
 
 1. Naive Bayes
