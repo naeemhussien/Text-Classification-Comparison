@@ -61,6 +61,11 @@ data
   2. Multinomial TFIDF
   3. Multinomial Hashing
 
+#### NB-SVM
+  1. BOW
+  2. TFIDF
+  3. Hashing
+
 #### Deep Learning
   1. Bidirectional LSTM RNN on Word Vector
   2. CNN-LSTM RNN on Word Vector
