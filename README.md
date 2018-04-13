@@ -80,6 +80,7 @@ data
   11. LSTM Attention RNN on Word Vector
   12. LSTM Seq-to-Seq Attention RNN on Word Vector
   13. LSTM Seq-to-Seq RNN on Word Vector
+  14. Layer-Norm LSTM RNN on Word Vector
 
 ## Assumptions
 
