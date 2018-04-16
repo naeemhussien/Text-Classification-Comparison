@@ -81,6 +81,7 @@ data
   12. LSTM Seq-to-Seq Attention RNN on Word Vector
   13. LSTM Seq-to-Seq RNN on Word Vector
   14. Layer-Norm LSTM RNN on Word Vector
+  15. Neural Turing Machine on Word Vector
 
 ## Assumptions
 
