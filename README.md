@@ -83,6 +83,7 @@ data
   14. Layer-Norm LSTM RNN on Word Vector
   15. Neural Turing Machine on Word Vector
   16. Only Attention Neural Network on Word Vector
+  17. Multi Attention Neural Network on Word Vector
 
 ## Assumptions
 
